@@ -15,3 +15,9 @@ The project follows the Separation of Concerns principle, dividing the code into
 2. Run the following command:
    ```bash
    python main.py
+
+## Author
+**AARAB Mohamed Amine**
+* Computer Engineering Student @ ENSAH
+**''Linkedin** : www.linkedin.com/in/aarabmedamine
+**''GitHub** : https://github.com/aarabmohamedamine
