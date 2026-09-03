@@ -1,7 +1,7 @@
-## Smart SHhop Project
-# Introduction
+# Smart SHhop Project
+## Introduction
 A CLI (Command Line Interface) application built with Python. It allows users to track and manage their daily expenses efficiently with permanent tracking.
-# Project Architecture
+## Project Architecture
 The project follows the Separation of Concerns principle, dividing the code into specific modules:
 
 * **`storage.py`**: Responsible for file handling and JSON serialization.
